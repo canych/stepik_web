@@ -1,1 +1,1 @@
-# stepik.or web-project
+# stepik.org web-project
